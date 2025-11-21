@@ -47,6 +47,7 @@ Analyzed the class distribution of the target variable. The dataset reveals a 16
 | XGBoost FE CV | 0.96887 | 0.91695 | 0.94218 | 0.98132 | 0.98496 |
 | Random Forest FE CV | 0.94166 | 0.90824 | 0.92464 | 0.97543 | 0.98062 |
 | XGBoost FE Test | 0.95833 | 0.92369 | 0.9407 | 0.98065 | 0.95785 |
+
 **Logistic Regression**
 
 The logistic regression model achieved (all weighted averages):
