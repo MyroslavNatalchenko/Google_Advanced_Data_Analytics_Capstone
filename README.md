@@ -8,9 +8,18 @@
 - [Summary of model results](#summary-of-model-results)
 - [Feature Importance](#feature-importance)
 - [Conclusion and Insights](#conclusion-and-insights)
+- [Visualization used for analysis](#visulizations-used-for-analysis)
+  - [Number of project counts](#number-of-project-counts)
+  - [Monthly hours by number of projects](#monthly-hours-by-number-of-projects)
+  - [Employee satisfaction analysis](#employee-satisfaction-analysis)
+  - [Employee tenure analysis](#employee-tenure-analysis)
+  - [Satisfaction vs. Evaluation scatterplot](#satisfaction-vs-evaluation-scatterplot)
+  - [Average monthly hours vs. Satisfaction scatterplot](#average-monthly-hours-vs-satisfaction-scatterplot)
+  - [Heatmap](#heatmap)
 
 ### Data Source
 - Salifort Employee Data from [Kaggle.](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
+
 ![data_description](https://github.com/MyroslavNatalchenko/Google_Advanced_Data_Analytics_Capstone/blob/main/img/data_description.png)
 
 ### Libraries used
@@ -89,7 +98,7 @@ The analysis confirms that employee overworking is the primary driver of churn. 
 - Revise Evaluations: Detach high performance scores from excessive working hours (240+/month); reward efficiency over duration.
 - Improve Culture: Initiate open discussions to address work culture and expectations at both team and company levels.
 
-## Visulizations used for analysis 
+## Visulizations used for analysis
 ### Number of project counts
 ![nmb_of_prj_cnt](https://github.com/MyroslavNatalchenko/Google_Advanced_Data_Analytics_Capstone/blob/main/img/nmb_of_prj_cnt.png)
 ### Monthly hours by number of projects
@@ -100,5 +109,7 @@ The analysis confirms that employee overworking is the primary driver of churn. 
 ![emp_ten](https://github.com/MyroslavNatalchenko/Google_Advanced_Data_Analytics_Capstone/blob/main/img/emp_ten.png)
 ### Satisfaction vs. Evaluation scatterplot
 ![st_ev](https://github.com/MyroslavNatalchenko/Google_Advanced_Data_Analytics_Capstone/blob/main/img/st_ev.png)
+### Average monthly hours vs. Satisfaction scatterplot
+![av_st](https://github.com/MyroslavNatalchenko/Google_Advanced_Data_Analytics_Capstone/blob/main/img/av_st.png)
 ### Heatmap
 ![heatmap](https://github.com/MyroslavNatalchenko/Google_Advanced_Data_Analytics_Capstone/blob/main/img/heatmap.png)
