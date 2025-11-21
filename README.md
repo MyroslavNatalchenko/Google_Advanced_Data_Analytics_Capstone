@@ -15,7 +15,7 @@
 
 ### Data Source
 - Salifort Employee Data from [Kaggle.](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
-![data_description](https://github.com/myroslavnatalchenko/Google_Advanced_Data_Analytics_Capstone/img/data_secription.png)
+![data_description](https://github.com/MyroslavNatalchenko/Google_Advanced_Data_Analytics_Capstone/blob/main/img/data_description.png)
 
 ### Libraries used
 - Pandas: Used for data manipulation, cleaning, and tabular analysis
